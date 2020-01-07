@@ -1,0 +1,81 @@
+*{	
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body {
+		background-image: url(../img/aa.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		font-family: 'Kulim Park', sans-serif;
+}
+.container {
+			width: 650px;
+			margin: 10% auto ;
+
+}
+.Home {
+	font-size: -webkit-xxx-large;
+    color: whitesmoke;
+    font-style: normal;
+}
+}
+
+.Login-setion {
+
+				
+    background-color: lightblue;
+
+
+				padding: 56px;
+}
+
+.Login-setion img{
+
+
+}
+
+.Login-setion h3 {
+				text-align: center;
+				color: cyan;
+				font-size: 43px;
+				margin: 10px 0px;
+				text-transform: uppercase;
+}
+
+
+.From-Control {
+
+				width: 95%;
+
+				height: 35px;
+
+				padding: 5px;
+
+				margin: 4px;
+}
+
+.Submite-btn {
+
+		display: block;
+	    color: #00ffc4;
+	    font-size: x-large;
+	    margin: 0px auto;
+	    padding: 14px 44px;
+	    border: #4024dc;
+	    text-transform: uppercase;
+	    transition: .4s ease-in-out;
+}
+
+.Submite-btn:hover {
+			box-shadow: 14px 16px 10px #1CA081;
+			cursor: pointer;
+}
+.signup {text-align: left;
+	color: #fff;
+
+}
+.forgot-password { text-align: left;
+	color: #fff;
+
